@@ -1,2 +1,2 @@
-# paginalogin_instagram_clone
-Clone da página de login do instagram.
+# Clone da página de login do instagram.
+Feito com HTML & CSS.
